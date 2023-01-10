@@ -1,0 +1,81 @@
+
+
+/*==========================================================================================================================================
+/*==========================================================================================================================================
+	Creative do Tema Colors Setup
+============================================================================================================================================
+============================================================================================================================================*/
+
+::selection {
+	color: #ffffff;
+	background-color: #0cadbe !important;
+}
+::-moz-selection {
+	color: #ffffff;
+	background-color: #0cadbe !important;
+}
+
+/*========== F O N T    C O L O R  =============*/
+
+/* Blue ------------------*/
+a, nav .menu li a.active, nav .menu li a:hover, nav .sub_menu li a:hover, .button.transparent:hover, .strength .team .member .job, .strength .team .member .social a:hover
+, .corporate section.widgets .widget .social a:hover, .corporate section.widgets .widget.tags a:hover, section.widgets .widget.recent_posts a:hover span, footer .menu_links a:hover
+, .strength .team_2 .member .job, .journal .posts .post .title, .page_portfolio_detail .project .info .custom_fields .title, .sidebar .sidebar_widget.categories a:hover span, 
+.sidebar .sidebar_widget .title, .accordion_1 .title, .accordion_2 .title:hover .icon, .accordion_2 .row.selected .title:hover .icon, .button_outline:hover, 
+.list_style_1 li i, .list_style_2 li i, .list_style_3 li i, .list_style_1 li .number, .list_style_2 li .number, .pagination_1 .icon-angle-left:hover, .corporate .contact_us h2, 
+.pagination_1 .icon-angle-right:hover, .pagination_1 .page_number:hover, .pagination_1 .page_number.selected, .pagination_2 .icon-angle-left:hover, .pagination_2 .icon-angle-right:hover, 
+.pagination_2 .icon-double-angle-left:hover, .pagination_2 .icon-double-angle-right:hover, .pagination_3 .page_number:hover, .pagination_3 .page_number.selected, .social_set_1 a:hover, 
+.social_set_2 a:hover, .template_color, .shortcodes .full_view_data_container .back_to_list, .carousel_2 .item .style_1 .author, .carousel_2 .item .style_2 .author, .carousel_2 .item .style_3 .author, 
+.corporate footer .menu_links a:hover, .page_corporate_journal .posts-wrapper .post .post-title a:hover, .sidebar .sidebar_widget.recent_posts a:hover {
+	color: #0cadbe !important;
+}
+
+
+/* Yellow ------------------*/
+.theme_font_color_2, .theme_font_color_2:hover {
+	color: #ffd518 !important;
+}
+
+
+/*========== B A C K G R O U N D    C O L O R =============*/
+
+/* Blue ------------------*/
+#ascrail2000 div, .style-switcher .style-switcher-handle, .style-switcher .styles-container div[class^="style-"] .overlay, .button_regular.red, .services .services_boxes .service_box:hover, .portfolio, .about_us .why_us .list, .about_us .why_us .list li, .contact_us, .strength .team_2 .member .skills .skill, 
+.journal_single form input[type=submit], .page_portfolio_detail .project .next_project .overlay, .page_portfolio_detail .project .prev_project .overlay, .portfolio_2 .categories, 
+.portfolio_2 .projects_container .project .img .overlay, .shortcodes .why_us .title, .accordion_1 .title .icon, .accordion_2 .title:hover, .accordion_2 .row.selected .title:hover, 
+.vertical_tabs .tabs li a, .contact_form_2 input[type=submit], .button_large:hover, .button_regular:hover, .icon_boxes_1 .icon_box:hover, .icon_boxes_3 .icon_box:hover .header, 
+.icon_boxes_4 .icon_box:hover i, .pagination_1 .icon-angle-left, .pagination_1 .icon-angle-right, .pagination_2 .icon-angle-left, .pagination_2 .icon-angle-right, .pagination_2 .icon-double-angle-left, 
+.pagination_2 .icon-double-angle-right, .social_set_2 a, .highlight, .fontaweomse_set a:hover, .icomoon_set a:hover, .entypo_set a:hover, .progress_bars .progress_bar .fg, 
+.carousel_1 .arrow_left, .carousel_1 .arrow_right, .contact_form_3 input[type=submit], .pricing_tables_1 .pricing_table .type, .pricing_tables_1 .pricing_table .activate, 
+.pricing_tables_3 .pricing_table .activate, .carousel_1 .item .style_3 .overlay, .carousel_1 .item .style_3:hover .text, .owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span, .corporate .contact_us .link1:hover, .corporate .contact_us .link2:hover, .corporate .contact_us .link2.active, nav .sub_menu li.square, 
+.corporate .contact_us .link1.active, .button_regular.white:hover {
+	background-color: #0cadbe !important;
+}
+
+
+/* Yellow ------------------*/
+.portfolio .projects .project .title, .strength .separator .square .container, section.widgets .widget.flickr a .overlay, footer, 
+.journal_single form input[type=submit]:hover, .page_portfolio_detail .project .next_project i, .page_portfolio_detail .project .prev_project i, .contact_form_2 input[type=submit]:hover, 
+.contact_form_3 input[type=submit]:hover, .pricing_tables_1 .pricing_table .activate:hover, .pricing_tables_3 .pricing_table .activate:hover, .button_regular.red:hover, .button_large.red:hover {
+	background-color: #ffd518 !important;
+}
+
+
+/*========== B O R D E R    C O L O R =============*/
+
+/* Blue ------------------*/
+.services .services_boxes .service_box:hover, .strength .team .member:hover, .strength .team .member .social a:hover
+, .portfolio .categories a, section.widgets .widget .social a:hover, .portfolio_2 .categories a, 
+.contact_form_1 input[type=text]:focus, .contact_form_1 input[type=email]:focus, .contact_form_1 textarea:focus, .contact_form_2 input[type=text]:focus, .contact_form_2 input[type=email]:focus, 
+.contact_form_2 textarea:focus, .button_outline:hover, .icon_boxes_1 .icon_box:hover, .icon_boxes_2 .icon_box:hover, .pagination_3 .icon-angle-left:hover, .pagination_3 .icon-angle-right:hover, 
+.social_set_2 a, .contact_form_3 input[type=text]:focus, .contact_form_3 input[type=email]:focus, .contact_form_3 textarea:focus, .corporate .contact_us .link1:hover, .corporate .contact_us .link2:hover, 
+.corporate .contact_us .link2.active, .journal_single form input[type=text]:focus, .journal_single form input[type=email]:focus, .journal_single form textarea:focus, nav .sub_menu {
+	border-color: #0cadbe !important;
+}
+
+
+/* Yellow ------------------*/
+.button.red:hover, .button.yellow {
+	border-color: #ffd518 !important;
+}
